@@ -1,5 +1,5 @@
 /************************************************************/
-/* AUTHOR      : Mina Asser , Mohamed Wahba                 */
+/* AUTHOR      : Mohamed Wahba                              */
 /* DESCRIPTION : CLINIC MANAGMENT PROJECT [project.c]       */
 /* DATE        : 7 SEP 2022                                 */
 /* VERSION     : Final Version                              */
